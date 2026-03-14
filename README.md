@@ -1,4 +1,6 @@
-# fonte-de-informação-e-banco-de-dados
+### banco de dados
+## integrantes do grupo
+- Juan.
 Disciplina ministrada no primeiro semestre CST GPI
 ## Apresentação em equipe ultilizando software de design gráfico 
 apresentação confeccionada ultilizanfo o software canva
