@@ -1,7 +1,10 @@
 ### banco de dados
+
 ## integrantes do grupo
-- Juan.
-Disciplina ministrada no primeiro semestre CST GPI
+- Juan Pablo
+- Gustavo Jaqcues
+- Erick Silva
+  
 ## Apresentação em equipe ultilizando software de design gráfico 
 apresentação confeccionada ultilizanfo o software canva
 
